@@ -10,10 +10,8 @@
   
   <img src="https://github.com/RamezHany/RamezHany/blob/main/profile-img.png" align="right" width="25%"/>
 
-I'm a software developer who is passionate about creating technology to elevate people and help new developers to find the right path. Some technologies I enjoy working with include Javascript, ReactJS, React-Native, and Firebase.
+I'm IT Specialist & Software Engineer.
+My experience is still in its early stages, but I am committed to continuously developing my skills, knowing that growth comes with time and effort.
 
-- 🔭 I'm a software developer [@Deliveryhero](https://www.deliveryhero.com/) in Berlin, Germany
-- 🔍 I have 2 live apps: 
-  - [Quran-tab (chrome extension)](https://chrome.google.com/webstore/detail/quran-tab/afaihcdgkjebgabomemccdneglknjkdd)
-  - Wazaker App ([Android version](https://play.google.com/store/apps/details?id=com.wazakerdailyaya&gl=DE), [iOS version](https://apps.apple.com/app/apple-store/id1453500014))
-- 💬 Ask me about **ReactJs and Frontend**
+I am a passionate IT Specialist and Software Engineer with a deep love for problem-solving and a strong knack for teamwork. My journey in the tech world began in middle school when I wrote my first line of code, and since then, I've been captivated by programming. I’ve dedicated countless hours to learning new programming languages, exploring the latest technologies, and developing innovative software solutions. With a solid background in computer , web development, and network and systems management, I thrive on learning new technologies and applying them to address real-world challenges. I strongly believe in the importance of teamwork and enjoy collaborating with teams to turn ideas into effective and impactful solutions.
+
