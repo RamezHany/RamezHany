@@ -7,7 +7,7 @@
     <a href="https://www.instagram.com/rramez.hany"><img src="https://img.shields.io/badge/instagram-%23E4415F?style=flat&logo=instagram&logoColor=white"/></a>
 </p>
 
-<img src="**https://github.com/RamezHany/RamezHany/blob/main/ss.gif**" align="right" width="25%"/>
+<img src="https://github.com/RamezHany/RamezHany/blob/main/profile-img.png" align="right" width="25%"/>
 
 <p align="left">
 👨‍💻 **About Me:**
@@ -34,4 +34,8 @@ My experience is still in its early stages, but I am committed to continuously d
     <a href="https://ramezhany.online/" style="text-decoration: none;">
         <img src="https://img.shields.io/badge/Visit-Portfolio-%2300C853?style=for-the-badge&logo=internet-explorer&logoColor=white"/>
     </a>
+</p>
+
+<p align="center">
+    <img src="https://github.com/RamezHany/RamezHany/blob/main/ss.gif" alt="Profile GIF"/>
 </p>
