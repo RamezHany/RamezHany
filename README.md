@@ -7,7 +7,7 @@
     <a href="https://www.instagram.com/mohamed_abusrea"><img src="https://img.shields.io/badge/instagram-%23E4415F?style=flat&logo=instagram&logoColor=white"/></a>
   </p>
   
-  <img src="[https://github.com/mohamedabusrea/mohamedabusrea/blob/master/profile-img.png](https://camo.githubusercontent.com/709b2022fe540b0334ccdeb53d07fce28d7846c32e78bcf86826bc67b8383fd2/68747470733a2f2f692e696d6775722e636f6d2f384d75705a48592e676966)" align="right" width="25%"/>
+  <img src="[[https://github.com/mohamedabusrea/mohamedabusrea/blob/master/profile-img.png](https://camo.githubusercontent.com/709b2022fe540b0334ccdeb53d07fce28d7846c32e78bcf86826bc67b8383fd2/68747470733a2f2f692e696d6775722e636f6d2f384d75705a48592e676966)](https://camo.githubusercontent.com/709b2022fe540b0334ccdeb53d07fce28d7846c32e78bcf86826bc67b8383fd2/68747470733a2f2f692e696d6775722e636f6d2f384d75705a48592e676966)" align="right" width="25%"/>
 
 I'm a software developer who is passionate about creating technology to elevate people and help new developers to find the right path. Some technologies I enjoy working with include Javascript, ReactJS, React-Native, and Firebase.
 
