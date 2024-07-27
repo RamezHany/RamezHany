@@ -10,15 +10,24 @@
 <img src="https://github.com/RamezHany/RamezHany/blob/main/profile-img.png" align="right" width="25%"/>
 
 <p align="left">
-👨‍💻 I'm an IT Specialist & Software Engineer with a deep love for problem-solving and a strong knack for teamwork. My journey in the tech world began in middle school when I wrote my first line of code. Since then, I've been captivated by programming, dedicating countless hours to learning new programming languages, exploring the latest technologies, and developing innovative software solutions.
+👨‍💻 **About Me:**
+</p>
+<p align="left">
+I'm an IT Specialist & Software Engineer with a deep love for problem-solving and a strong knack for teamwork. My journey in the tech world began in middle school when I wrote my first line of code. Since then, I've been captivated by programming, dedicating countless hours to learning new programming languages, exploring the latest technologies, and developing innovative software solutions.
 </p>
 
 <p align="left">
-🌐 With a solid background in computer science, web development, and network and systems management, I thrive on learning new technologies and applying them to address real-world challenges. I strongly believe in the importance of teamwork and enjoy collaborating with teams to turn ideas into effective and impactful solutions.
+🌐 **My Expertise:**
+</p>
+<p align="left">
+With a solid background in computer science, web development, and network and systems management, I thrive on learning new technologies and applying them to address real-world challenges. I strongly believe in the importance of teamwork and enjoy collaborating with teams to turn ideas into effective and impactful solutions.
 </p>
 
 <p align="left">
-📈 My experience is still in its early stages, but I am committed to continuously developing my skills, knowing that growth comes with time and effort.
+📈 **My Growth:**
+</p>
+<p align="left">
+My experience is still in its early stages, but I am committed to continuously developing my skills, knowing that growth comes with time and effort.
 </p>
 
 <p align="center">
