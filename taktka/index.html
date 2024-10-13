@@ -1,0 +1,290 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma.min.css"
+    />
+    <style>
+      body {
+        background-color: #f5f5f5;
+        font-family: 'Arial', sans-serif;
+      }
+      .hero {
+        background-image: url('cover.jpg'); /* Add the LinkedIn cover image URL here */
+        background-size: cover;
+        background-position: center;
+        color: white;
+        height: 400px; /* Adjust the height as needed */
+      }
+      .hero .title {
+        font-size: 2.5rem;
+        font-weight: bold;
+        color: white; /* Ensure text is readable over the image */
+      }
+      .hero .subtitle {
+        font-size: 1.3rem;
+        font-weight: normal;
+        max-width: 80%;
+        color: white; /* Ensure text is readable over the image */
+      }
+      .form-container {
+        background-color: white;
+        border-radius: 8px;
+        padding: 20px;
+        margin-top: -50px;
+        box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+      }
+      .logo {
+        max-height: 80px;
+        margin-bottom: 20px;
+      }
+      .social-icons {
+        display: flex;
+        justify-content: center;
+        margin-top: 20px;
+      }
+      .social-icons a {
+        margin: 0 10px;
+        color: #4a4a4a;
+        font-size: 24px;
+        transition: color 0.3s;
+      }
+      .social-icons a:hover {
+        color: #3273dc; /* Bulma primary color */
+      }
+      @media (max-width: 768px) {
+        .hero .title {
+          font-size: 2rem;
+        }
+        .hero .subtitle {
+          font-size: 1rem;
+        }
+      }
+    </style>
+
+    <!-- Font Awesome for social media icons -->
+    <script
+      src="https://kit.fontawesome.com/a076d05399.js"
+      crossorigin="anonymous"
+    ></script>
+  </head>
+  <body>
+    <section class="hero is-bold">
+      <div class="hero-body">
+        <div class="container has-text-centered">
+          <!-- Add company logo -->
+          <figure class="image is-inline-block">
+            <img class="logo" src="logo.png" alt="TakTaka Logo" />
+          </figure>
+          <h1 class="title"></h1>
+          <h2 class="subtitle">
+           
+          
+          </h2>
+        </div>
+      </div>
+    </section>
+
+    <div class="container form-container">
+      <form id="form" method="POST">
+        <div class="field">
+          <label class="label">Name</label>
+          <div class="control">
+            <input
+              class="input"
+              type="text"
+              placeholder="Your Name"
+              name="Name"
+              required
+            />
+          </div>
+        </div>
+
+        <div class="field">
+          <label class="label">WhatsApp Number</label>
+          <div class="control">
+            <input
+              class="input"
+              type="number"
+              placeholder="WhatsApp Number"
+              name="WhatsApp Number"
+              min="11"
+              max="12"
+              required
+            />
+          </div>
+        </div>
+
+        <div class="field">
+          <label class="label">ID National Number</label>
+          <div class="control">
+            <input
+            <input
+              class="input"
+              type="number"
+              placeholder="Enter ID National Number"
+              name="Age"
+              min="14"
+              max="15"
+              required
+            />
+            
+          </div>
+        </div>
+
+        <div class="field">
+          <label class="label">Email</label>
+          <div class="control">
+            <input
+              class="input"
+              type="email"
+              placeholder="Your Email"
+              name="Email"
+              required
+            />
+          </div>
+        </div>
+
+        <div class="field">
+          <label class="label">Education Profile</label>
+          <div class="control">
+            <label class="radio">
+              <input type="radio" name="Education Profile" value="Student" /> Student
+            </label>
+            <label class="radio">
+              <input type="radio" name="Education Profile" value="Graduate" /> Graduate
+            </label>
+          </div>
+        </div>
+
+        <div class="field">
+          <label class="label">University and College</label>
+          <div class="control">
+            <input
+              class="input"
+              type="text"
+              placeholder="University and College"
+              name="University and College"
+              required
+            />
+          </div>
+        </div>
+
+        <div class="field">
+          <label class="label">Age</label>
+          <div class="control">
+            <input
+              class="input"
+              type="number"
+              placeholder="Enter your age"
+              name="Age"
+              min="16"
+              max="100"
+              required
+            />
+          </div>
+        </div>
+
+        <div class="field">
+          <label class="label">Gender</label>
+          <div class="control">
+            <label class="radio">
+              <input type="radio" name="Gender" value="male" /> Male
+            </label>
+            <label class="radio">
+              <input type="radio" name="Gender" value="female" /> Female
+            </label>
+          </div>
+        </div>
+
+        <div class="field is-grouped">
+          <div class="control">
+            <button class="button is-primary" type="submit" id="submit-button">
+              Submit
+            </button>
+          </div>
+          <div class="control">
+            <button class="button is-danger" type="reset">Cancel</button>
+          </div>
+        </div>
+      </form>
+
+      <div
+        id="message"
+        style="
+          display: none;
+          margin: 20px;
+          font-weight: bold;
+          color: green;
+          padding: 8px;
+          background-color: beige;
+          border-radius: 4px;
+          border-color: aquamarine;
+        "
+      ></div>
+
+      <!-- Social Media Icons -->
+      <div class="social-icons">
+        <a href="https://facebook.com" target="_blank"><i class="fab fa-facebook"></i></a>
+        <a href="https://twitter.com" target="_blank"><i class="fab fa-twitter"></i></a>
+        <a href="https://linkedin.com" target="_blank"><i class="fab fa-linkedin"></i></a>
+        <a href="https://instagram.com" target="_blank"><i class="fab fa-instagram"></i></a>
+      </div>
+    </div>
+
+    <script>
+      document.getElementById("form").addEventListener("submit", function (e) {
+        e.preventDefault(); // Prevent the default form submission
+        document.getElementById("message").textContent = "Submitting...";
+        document.getElementById("message").style.display = "block";
+        document.getElementById("submit-button").disabled = true;
+
+        // Collect the form data
+        var formData = new FormData(this);
+        var keyValuePairs = [];
+        for (var pair of formData.entries()) {
+          keyValuePairs.push(pair[0] + "=" + encodeURIComponent(pair[1]));
+        }
+        var formDataString = keyValuePairs.join("&");
+
+        // Send a POST request to the Google Apps Script
+        fetch(
+          "https://script.google.com/macros/s/AKfycbwxuE5TMofwBHqCmF36a_HRXDQhnEhfaXSnZrLLHuxUnPjDT1CGEKLskezrgZNSxMHL/exec",
+          {
+            redirect: "follow",
+            method: "POST",
+            body: formDataString,
+            headers: {
+              "Content-Type": "application/x-www-form-urlencoded;charset=UTF-8",
+            },
+          }
+        )
+          .then(function (response) {
+            if (response.ok) {
+              return response.json();
+            } else {
+              throw new Error("Failed to submit the form.");
+            }
+          })
+          .then(function (data) {
+            document.getElementById("message").textContent =
+              "Data submitted successfully!";
+            document.getElementById("message").style.backgroundColor = "green";
+            document.getElementById("submit-button").disabled = false;
+            document.getElementById("form").reset();
+            setTimeout(function () {
+              document.getElementById("message").style.display = "none";
+            }, 3000); // Hide the message after 3 seconds
+          })
+          .catch(function (error) {
+            document.getElementById("message").textContent =
+              "An error occurred. Please try again later.";
+            document.getElementById("message").style.backgroundColor = "red";
+            document.getElementById("submit-button").disabled = false;
+          });
+      });
+    </script>
+  </body>
+</html>
