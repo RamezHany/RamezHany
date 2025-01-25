@@ -10,7 +10,7 @@
 <img src="https://github.com/RamezHany/RamezHany/blob/main/profile-img.png" align="right" width="25%"/>
 
 <p align="left">
-👨‍💻 **About Me:**
+👨‍💻 **About Me**
 </p>
 <p align="left">
 I'm an IT Specialist & Software Engineer with a deep love for problem-solving and a strong knack for teamwork. My journey in the tech world began in middle school when I wrote my first line of code. Since then, I've been captivated by programming, dedicating countless hours to learning new programming languages, exploring the latest technologies, and developing innovative software solutions.
