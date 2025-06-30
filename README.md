@@ -23,12 +23,7 @@ I'm an IT Specialist & Software Engineer with a deep love for problem-solving an
 With a solid background in computer science, web development, and network and systems management, I thrive on learning new technologies and applying them to address real-world challenges. I strongly believe in the importance of teamwork and enjoy collaborating with teams to turn ideas into effective and impactful solutions.
 </p>
 
-<p align="left">
-📈 **My Growth:**
-</p>
-<p align="left">
-My experience is still in its early stages, but I am committed to continuously developing my skills, knowing that growth comes with time and effort.
-</p>
+
 
 <p align="center">
     <a href="https://ramezhany.online/" style="text-decoration: none;">
