@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <b>1,900+ contributions in 2026</b> · Platforms live for clients in <b>Egypt &amp; Saudi Arabia</b> · OTP service built with <b>Vodafone Egypt</b> · Incubated at <b>Creativa — ITIDA / TIEC</b>
+  <b>2,300+ contributions in 2026</b> · Platforms live for clients in <b>Egypt &amp; Saudi Arabia</b> · OTP service built with <b>Vodafone Egypt</b> · Incubated at <b>Creativa — ITIDA / TIEC</b>
 </p>
 
 ---
@@ -105,12 +105,12 @@ My standard is simple: **if it isn't verified live, it isn't done.** Every platf
 ## Proof of Work
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RamezHany&show_icons=true&bg_color=02122E&title_color=7FB0FF&icon_color=2E7CFF&text_color=E6E8ED&border_color=25406B&ring_color=2E7CFF" alt="Ramez's GitHub stats" height="170"/>
+  <img src="assets/stats.svg" alt="Ramez's GitHub stats" height="170"/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=RamezHany&background=02122E&border=25406B&ring=2E7CFF&fire=2E7CFF&currStreakNum=E6E8ED&currStreakLabel=7FB0FF&sideNums=E6E8ED&sideLabels=E6E8ED&dates=8A94A6" alt="GitHub streak" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamezHany&layout=compact&bg_color=02122E&title_color=7FB0FF&text_color=E6E8ED&border_color=25406B" alt="Top languages" height="150"/>
+  <img src="assets/langs.svg" alt="Top languages" height="150"/>
 </p>
 
 ## Open-Source Program
