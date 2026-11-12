@@ -6,7 +6,9 @@
     <stop offset="1" stop-color="#02122E"/>
   </linearGradient>
   <radialGradient id="glowTR" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1408 -48) rotate(90) scale(520 1100)">
-    <stop stop-color="#0049FF" stop-opacity=".38"/>
+    <stop stop-color="#0049FF" stop-opacity=".38">
+      <animate attributeName="stop-opacity" values=".38;.52;.38" dur="7s" repeatCount="indefinite"/>
+    </stop>
     <stop offset="1" stop-color="#0049FF" stop-opacity="0"/>
   </radialGradient>
   <radialGradient id="glowBL" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(-80 552) rotate(90) scale(420 700)">
@@ -17,14 +19,55 @@
     <stop stop-color="#2E7CFF"/>
     <stop offset="1" stop-color="#0049FF"/>
   </linearGradient>
+  <linearGradient id="sweepGrad" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#FFFFFF" stop-opacity="0"/>
+    <stop offset=".5" stop-color="#FFFFFF" stop-opacity=".09"/>
+    <stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/>
+  </linearGradient>
+  <clipPath id="bannerClip"><rect x="26" y="26" width="1548" height="428" rx="18"/></clipPath>
 </defs>
 <rect width="1600" height="480" fill="url(#bgGrad)"/>
 <rect width="1600" height="480" fill="url(#glowTR)"/>
 <rect width="1600" height="480" fill="url(#glowBL)"/>
-<g opacity=".16" stroke="#2E7CFF" stroke-width="3">
-  <line x1="1180" y1="-40" x2="1420" y2="520"/>
-  <line x1="1260" y1="-40" x2="1500" y2="520"/>
-  <line x1="1340" y1="-40" x2="1580" y2="520"/>
+<g clip-path="url(#bannerClip)">
+  <g opacity=".09">
+    <animateTransform attributeName="transform" type="translate" values="0 0; 16 0; 0 0" dur="13s" repeatCount="indefinite"/>
+    <svg x="1050" y="66" width="600" height="331" viewBox="0 0 1000 552">
+
+<g id="RH Icon">
+<g clip-path="url(#clipGhost01)">
+<g id="Colorway=SilverBlue">
+<path id="R &#226;&#128;&#148; Chevron" fill-rule="evenodd" clip-rule="evenodd" d="M622.193 529.039C618.693 525.649 588.783 495.479 555.723 461.989C443.053 347.889 411.813 316.939 407.103 314.739C399.843 311.349 394.403 309.739 384.343 308.019C374.223 306.289 367.973 306.489 356.193 308.959C349.623 310.329 345.403 311.569 337.903 314.349C334.683 315.539 328.363 321.049 311.513 337.389C299.323 349.209 284.073 364.169 277.613 370.629C271.163 377.089 243.333 404.779 215.773 432.149L165.653 481.919L83.3127 481.639C38.0327 481.489 0.602656 480.989 0.142656 480.549C-0.317344 480.099 0.372656 479.039 1.67266 478.189C2.97266 477.329 11.0427 469.489 19.5927 460.749C53.8627 425.769 279.613 201.789 283.003 199.409C284.343 198.469 286.413 197.159 287.583 196.499C291.043 194.569 300.833 191.339 303.243 191.339C304.473 191.339 305.473 190.889 305.473 190.329C305.473 189.639 328.593 189.409 378.543 189.609L451.613 189.909L456.503 191.709C459.193 192.699 463.373 194.389 465.793 195.469C471.013 197.799 495.243 221.969 786.913 515.839C796.313 525.309 804.013 533.549 804.013 534.149C804.013 534.949 780.233 535.239 716.273 535.219L628.543 535.189L622.193 529.039Z" fill="#0049FF"/>
+<path id="R &#226;&#128;&#148; Top Bar" fill-rule="evenodd" clip-rule="evenodd" d="M633.332 271.519C631.352 269.789 605.942 243.959 576.852 214.119C547.762 184.289 517.802 153.569 510.272 145.869C492.892 128.089 489.262 125.839 472.142 122.219L463.342 120.359H347.992L232.652 120.369L223.902 111.299C219.092 106.309 193.362 80.089 166.722 53.029C140.072 25.969 117.922 3.21899 117.492 2.46899C116.882 1.39899 117.632 1.10899 121.082 1.10899C123.482 1.10899 125.592 0.77899 125.772 0.37899C125.952 -0.02101 214.072 -0.12101 321.602 0.15899L517.102 0.67899L522.482 2.41899C532.332 5.61899 536.832 7.80899 547.412 14.569C552.582 17.879 567.902 32.629 610.252 75.079C641.052 105.959 668.622 134.369 671.512 138.219C682.112 152.349 688.592 171.149 688.632 187.899C688.682 206.669 682.002 227.739 671.972 240.479C666.332 247.649 639.532 274.669 638.072 274.669C637.442 274.669 635.302 273.249 633.332 271.519Z" fill="url(#paint0_linear_0_1)"/>
+<path id="H &#226;&#128;&#148; Pillar" fill-rule="evenodd" clip-rule="evenodd" d="M994.17 550.57C993.48 549.74 992.34 549.07 991.64 549.07C990.94 549.07 989.78 548.49 989.07 547.79C988.36 547.09 987.12 546.2 986.31 545.82C985.5 545.45 983.53 544.27 981.91 543.2C980.3 542.14 978.35 540.97 977.59 540.6C976.83 540.24 972.72 537.59 968.46 534.73C964.21 531.87 960.5 529.53 960.22 529.53C959.94 529.53 958.11 528.32 956.14 526.84C954.18 525.36 951.7 523.63 950.63 522.99C949.55 522.35 945.01 519.49 940.53 516.64C936.04 513.79 930.33 510.35 927.82 509C925.31 507.65 920.66 504.86 917.47 502.8C914.29 500.74 911.01 498.79 910.19 498.47C909.36 498.16 907.92 497.25 906.99 496.45C905.09 494.82 895.22 489.1 891.5 487.47C890.15 486.88 887.63 485.31 885.88 483.98L882.69 481.55V408.43V335.32L880.49 334.85C879.29 334.6 826.61 334.33 763.44 334.26C700.27 334.2 646.05 334.14 642.96 334.13C639.28 334.13 637.34 333.73 637.34 332.97C637.34 332.33 643.17 325.85 650.29 318.58C657.41 311.3 670.11 298.3 678.5 289.69C686.9 281.09 701.46 266.25 710.87 256.72L727.98 239.41L802.65 239.14C843.72 238.99 877.87 238.51 878.54 238.08C879.51 237.45 879.76 212.68 879.76 119.62C879.76 38.2099 880.08 1.94995 880.79 1.94995C881.82 1.94995 996.92 117.28 998.29 119.68C998.69 120.39 998.91 217.84 998.78 336.23L998.53 551.48L996.97 551.78C996.12 551.95 994.85 551.4 994.17 550.57Z" fill="url(#paint1_linear_0_1)"/>
+</g>
+</g>
+</g>
+<defs>
+<linearGradient id="paint0_linear_0_1" x1="402.966" y1="274.669" x2="402.966" y2="0" gradientUnits="userSpaceOnUse">
+<stop stop-color="#F2F4F7"/>
+<stop offset="1" stop-color="#DCDEE5"/>
+</linearGradient>
+<linearGradient id="paint1_linear_0_1" x1="818.079" y1="551.811" x2="818.079" y2="1.94995" gradientUnits="userSpaceOnUse">
+<stop stop-color="#F2F4F7"/>
+<stop offset="1" stop-color="#DCDEE5"/>
+</linearGradient>
+<clipPath id="clipGhost01">
+<rect width="1000" height="552" rx="5" fill="white"/>
+</clipPath>
+</defs>
+</svg>
+  </g>
+  <g opacity=".16" stroke="#2E7CFF" stroke-width="3">
+    <animateTransform attributeName="transform" type="translate" values="0 0; -26 0; 0 0" dur="11s" repeatCount="indefinite"/>
+    <line x1="1180" y1="-40" x2="1420" y2="520"/>
+    <line x1="1260" y1="-40" x2="1500" y2="520"/>
+    <line x1="1340" y1="-40" x2="1580" y2="520"/>
+  </g>
+  <g>
+    <animateTransform attributeName="transform" type="translate" values="-560 0; 1980 0; 1980 0" keyTimes="0; .38; 1" dur="7s" repeatCount="indefinite"/>
+    <rect x="0" y="-60" width="340" height="620" fill="url(#sweepGrad)" transform="skewX(-18)"/>
+  </g>
 </g>
 <rect x="26" y="26" width="1548" height="428" rx="18" stroke="#E6E8ED" stroke-opacity=".16"/>
 <svg x="96" y="58" width="832" height="158" viewBox="0 0 1684 320">
