@@ -88,11 +88,16 @@ My standard is simple: **if it isn't verified live, it isn't done.** Every platf
 <td align="center"><img src="https://skillicons.dev/icons?i=vscode,visualstudio,figma&perline=3&theme=dark" alt="Editors and design tools" width="130"/></td>
 <td align="center"><img src="https://img.shields.io/badge/GSAP-88CE02?style=flat&logo=gsap&logoColor=black" alt="GSAP"/> <img src="https://img.shields.io/badge/Zod-3068B7?style=flat&logo=zod&logoColor=white" alt="Zod"/> <img src="https://img.shields.io/badge/Formik-172B4D?style=flat" alt="Formik"/> <img src="https://img.shields.io/badge/SWR-000000?style=flat" alt="SWR"/><br/><img src="https://img.shields.io/badge/React%20Bits-7C3AED?style=flat" alt="React Bits"/> <img src="https://img.shields.io/badge/Payload_CMS-000000?style=flat&logo=payloadcms" alt="Payload CMS"/> <img src="https://img.shields.io/badge/Google%20Sheets%20API-34A853?style=flat&logo=googlesheets&logoColor=white" alt="Google Sheets API"/><br/><img src="https://img.shields.io/badge/Google%20Docs%20API-4285F4?style=flat&logo=googledocs&logoColor=white" alt="Google Docs API"/> <img src="https://img.shields.io/badge/Google%20Drive%20API-F9AB00?style=flat&logo=googledrive&logoColor=white" alt="Google Drive API"/></td>
 </tr>
+<tr>
+<td align="center"><b>Mobile &amp; Cross-Platform</b></td>
+<td align="center"><b>AI Tools &amp; Assistants</b></td>
+</tr>
+<tr>
+<td align="center"><img src="https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React Native"/> <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" alt="Flutter"/><br/><img src="https://img.shields.io/badge/Capacitor-119EFF?style=flat&logo=capacitor&logoColor=white" alt="Capacitor"/> <img src="https://img.shields.io/badge/PWA-5A0FC8?style=flat&logo=pwa&logoColor=white" alt="PWA"/></td>
+<td align="center"><img src="https://img.shields.io/badge/Claude-D97757?style=flat&logo=claude&logoColor=white" alt="Claude"/> <img src="https://img.shields.io/badge/Claude%20Code-000000?style=flat&logo=claude&logoColor=white" alt="Claude Code"/> <img src="https://img.shields.io/badge/Cursor-000000?style=flat&logo=cursor&logoColor=white" alt="Cursor"/><br/><img src="https://img.shields.io/badge/Trae%20AI-000000?style=flat" alt="Trae AI"/> <img src="https://img.shields.io/badge/OpenCode-111111?style=flat" alt="OpenCode"/></td>
+</tr>
 </table>
 
-<b>AI Tools &amp; Assistants</b>
-
-<img src="https://img.shields.io/badge/Claude-D97757?style=flat&logo=claude&logoColor=white" alt="Claude"/> <img src="https://img.shields.io/badge/Claude%20Code-000000?style=flat&logo=claude&logoColor=white" alt="Claude Code"/> <img src="https://img.shields.io/badge/Cursor-000000?style=flat&logo=cursor&logoColor=white" alt="Cursor"/> <img src="https://img.shields.io/badge/Trae%20AI-000000?style=flat" alt="Trae AI"/> <img src="https://img.shields.io/badge/OpenCode-111111?style=flat" alt="OpenCode"/>
 
 </div>
 
