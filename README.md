@@ -30,6 +30,16 @@ My standard is simple: **if it isn't verified live, it isn't done.** Every platf
 - 📚 First-year **Psychology** student, Alexandria University — and I teach: my content connects Holland Codes (RIASEC) with the Enneagram
 - 💬 **9,000+ followers** on LinkedIn read my breakdowns of building software properly
 
+## Operating Principles
+
+| | |
+|---|---|
+| **Ship to production** | Demos don't count — real users, real systems, real stakes. |
+| **Verify live, or it didn't happen** | Every claim gets tested on the live system before it's called done. |
+| **Security before handover** | Authentication, secrets, access control — audited, never assumed. |
+| **One standard** | If I wouldn't sign my name under it, it doesn't ship. |
+
+
 ## Selected Work — Live in Production
 
 | Platform | What it is | Stack |
@@ -38,6 +48,8 @@ My standard is simple: **if it isn't verified live, it isn't done.** Every platf
 | [IGCC](https://www.igcc-eg.com) | International Center for Governance and Consultancy — courses, enrollment & payments | Next.js · Paymob |
 | [BerryNova](https://berrynova-eg.com) | B2B exporter of IQF frozen produce — catalog, quote system & CMS | Next.js · Payload CMS |
 | **Syncode OTP** | Secure OTP service for businesses — built with Vodafone Egypt | Production service |
+
+> **Currently:** Building **Feenak** (NFC-card SaaS) · Climbing the **Dokploy** open-source ladder · Booking platform builds for trainers, coaches & service businesses.
 
 ## Arsenal
 
