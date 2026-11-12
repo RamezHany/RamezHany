@@ -70,7 +70,7 @@
   </g>
 </g>
 <rect x="26" y="26" width="1548" height="428" rx="18" stroke="#E6E8ED" stroke-opacity=".16"/>
-<svg x="96" y="58" width="832" height="158" viewBox="0 0 1684 320">
+<svg x="96" y="100" width="832" height="158" viewBox="0 0 1684 320">
 
 <g id="RH Lockup">
 <g clip-path="url(#clip0_0_1)">
@@ -109,8 +109,6 @@
 </clipPath>
 </defs>
 </svg>
-<rect x="98" y="258" width="72" height="4" rx="2" fill="url(#ruleGrad)"/>
-<text x="96" y="322" font-family="Raleway, 'Segoe UI', Arial, sans-serif" font-size="43" font-weight="600" letter-spacing="6" fill="#F2F4F7">FULL-STACK DEVELOPER <tspan fill="#2E7CFF">·</tspan> SYNCODE</text>
-<text x="96" y="368" font-family="Raleway, 'Segoe UI', Arial, sans-serif" font-size="27" font-weight="800" letter-spacing="8" fill="#7FB0FF">BEYOND CODE. BUILT WITH INTELLIGENCE.</text>
-<text x="96" y="414" font-family="Raleway, 'Segoe UI', Arial, sans-serif" font-size="21" font-weight="500" letter-spacing="4" fill="#E6E8ED" fill-opacity=".62">ALEXANDRIA, EGYPT</text>
+<rect x="98" y="296" width="72" height="4" rx="2" fill="url(#ruleGrad)"/>
+<text x="96" y="352" font-family="Raleway, 'Segoe UI', Arial, sans-serif" font-size="43" font-weight="600" letter-spacing="6" fill="#F2F4F7">FULL-STACK DEVELOPER</text>
 </svg>
