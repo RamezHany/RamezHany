@@ -19,6 +19,8 @@
 
 ## The Short Version
 
+<img align="right" width="185" src="assets/photo.svg" alt="Ramez Hany — Full-Stack Developer"/>
+
 I'm a full-stack developer at **[Syncode](https://syn-code.com)**. I don't build demos — I build the systems businesses actually run on: a legal ecosystem platform, a governance consultancy's enrollment business, an exporter's sales pipeline, and a carrier-grade OTP service.
 
 My standard is simple: **if it isn't verified live, it isn't done.** Every platform I deliver gets a full security pass — authentication, secrets, access control — before handover, not after the first incident.
