@@ -80,7 +80,7 @@ My standard is simple: **if it isn't verified live, it isn't done.** Every platf
 </tr>
 </table>
 
-**AI, Automation &amp; Infrastructure**
+<b>AI, Automation &amp; Infrastructure</b>
 
 <img src="https://img.shields.io/badge/Claude-D97757?style=flat&logo=claude&logoColor=white" alt="Claude"/> <img src="https://img.shields.io/badge/Claude%20Code-000000?style=flat&logo=claude&logoColor=white" alt="Claude Code"/> <img src="https://img.shields.io/badge/Cursor-000000?style=flat&logo=cursor&logoColor=white" alt="Cursor"/> <img src="https://img.shields.io/badge/Trae%20AI-000000?style=flat" alt="Trae AI"/> <img src="https://img.shields.io/badge/OpenCode-111111?style=flat" alt="OpenCode"/><br/><img src="https://img.shields.io/badge/Dokploy-111111?style=flat" alt="Dokploy"/> <img src="https://img.shields.io/badge/Traefik-24A1C1?style=flat&logo=traefikproxy&logoColor=white" alt="Traefik"/> <img src="https://img.shields.io/badge/MikroTik-293239?style=flat&logo=mikrotik&logoColor=white" alt="MikroTik"/>
 
