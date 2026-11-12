@@ -62,7 +62,7 @@ My standard is simple: **if it isn't verified live, it isn't done.** Every platf
 </tr>
 <tr>
 <td align="center"><img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,threejs,blender&perline=7&theme=dark" alt="Frontend and 3D" width="300"/></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,php,laravel,python,django,fastapi,cpp,rust,go&perline=11&theme=dark" alt="Backend" width="475"/></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,php,laravel,python,django,fastapi&perline=8&theme=dark" alt="Backend" width="345"/></td>
 </tr>
 <tr>
 <td align="center"><b>Data</b></td>
@@ -81,6 +81,10 @@ My standard is simple: **if it isn't verified live, it isn't done.** Every platf
 <td align="center"><img src="https://img.shields.io/badge/GSAP-88CE02?style=flat&logo=gsap&logoColor=black" alt="GSAP"/> <img src="https://img.shields.io/badge/Zod-3068B7?style=flat&logo=zod&logoColor=white" alt="Zod"/> <img src="https://img.shields.io/badge/Formik-172B4D?style=flat" alt="Formik"/> <img src="https://img.shields.io/badge/SWR-000000?style=flat" alt="SWR"/><br/><img src="https://img.shields.io/badge/React%20Bits-7C3AED?style=flat" alt="React Bits"/> <img src="https://img.shields.io/badge/Payload_CMS-000000?style=flat&logo=payloadcms" alt="Payload CMS"/> <img src="https://img.shields.io/badge/Google%20Sheets%20API-34A853?style=flat&logo=googlesheets&logoColor=white" alt="Google Sheets API"/><br/><img src="https://img.shields.io/badge/Google%20Docs%20API-4285F4?style=flat&logo=googledocs&logoColor=white" alt="Google Docs API"/> <img src="https://img.shields.io/badge/Google%20Drive%20API-F9AB00?style=flat&logo=googledrive&logoColor=white" alt="Google Drive API"/></td>
 </tr>
 </table>
+
+<b>Systems Programming</b>
+
+<img src="https://skillicons.dev/icons?i=cpp,rust,go&perline=3&theme=dark" alt="Systems programming languages" width="130"/>
 
 <b>AI, Automation &amp; Infrastructure</b>
 
