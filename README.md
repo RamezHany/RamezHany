@@ -1,15 +1,14 @@
 <p align="center">
-  <img src="assets/banner.svg" width="100%" alt="Ramez Hany — Full-Stack Developer · Syncode — Beyond Code. Built With Intelligence."/>
+  <img src="assets/banner.svg" width="100%" alt="Ramez Hany — Full-Stack Developer"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Raleway&weight=600&size=23&pause=1100&color=2E7CFF&center=true&vCenter=true&width=760&lines=I+ship+production+platforms;Security-first+%E2%80%94+always;Next.js+%C2%B7+Laravel+%C2%B7+Payload+CMS+%C2%B7+C%2B%2B;Building+Feenak+%E2%80%94+NFC+cards%2C+smart+profiles" alt="What Ramez does"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Raleway&weight=600&size=23&pause=1100&color=2E7CFF&center=true&vCenter=true&width=760&lines=Full-Stack+Developer;I+ship+production+platforms;Security-first+%E2%80%94+always;Beyond+Code.+Built+With+Intelligence." alt="What Ramez does"/>
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rramez-hany"><img src="https://img.shields.io/badge/LinkedIn-rramez--hany-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://ramez-hany.com"><img src="https://img.shields.io/badge/Website-ramez--hany.com-%230049FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/></a>
-  <a href="https://syn-code.com"><img src="https://img.shields.io/badge/Company-Syncode-%2303245C?style=for-the-badge&logo=code&logoColor=white" alt="Syncode"/></a>
 </p>
 
 <p align="center">
@@ -53,14 +52,54 @@ My standard is simple: **if it isn't verified live, it isn't done.** Every platf
 
 ## Arsenal
 
+<p align="center"><b>Frontend &amp; 3D</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,laravel,php,cpp,python,nodejs,supabase,postgres,docker,git,github,linux,vscode&perline=8" alt="Tech stack"/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,threejs,blender&perline=7" alt="Frontend and 3D"/>
 </p>
 
+<p align="center"><b>Backend</b></p>
 <p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,php,laravel,python,django,fastapi&perline=8" alt="Backend"/>
+</p>
+
+<p align="center"><b>Data</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,sqlite,mysql,supabase&perline=5" alt="Databases"/>
+</p>
+
+<p align="center"><b>Cloud &amp; DevOps</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,nginx,netlify,git,github,linux&perline=9" alt="Cloud and DevOps"/>
+</p>
+
+<p align="center"><b>Editors &amp; Everyday Tools</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,cpp,figma,vercel&perline=5" alt="Editors and tools"/>
+</p>
+
+<p align="center"><b>Libraries &amp; APIs</b></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=gsap&logoColor=white" alt="GSAP"/>
+  <img src="https://img.shields.io/badge/Zod-3068B7?style=for-the-badge&logo=zod&logoColor=white" alt="Zod"/>
+  <img src="https://img.shields.io/badge/Formik-172B4D?style=for-the-badge" alt="Formik"/>
+  <img src="https://img.shields.io/badge/SWR-000000?style=for-the-badge" alt="SWR"/>
+  <img src="https://img.shields.io/badge/React%20Bits-7C3AED?style=for-the-badge" alt="React Bits"/>
   <img src="https://img.shields.io/badge/Payload_CMS-000000?style=for-the-badge&logo=payloadcms&logoColor=white" alt="Payload CMS"/>
-  <img src="https://img.shields.io/badge/Figma-1E1E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
+  <img src="https://img.shields.io/badge/Google%20Sheets%20API-34A853?style=for-the-badge&logo=googlesheets&logoColor=white" alt="Google Sheets API"/>
+  <img src="https://img.shields.io/badge/Google%20Docs%20API-4285F4?style=for-the-badge&logo=googledocs&logoColor=white" alt="Google Docs API"/>
+  <img src="https://img.shields.io/badge/Google%20Drive%20API-F9AB00?style=for-the-badge&logo=googledrive&logoColor=white" alt="Google Drive API"/>
+</p>
+
+<p align="center"><b>AI, Automation &amp; Infrastructure</b></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude"/>
+  <img src="https://img.shields.io/badge/Claude%20Code-000000?style=for-the-badge&logo=claude&logoColor=white" alt="Claude Code"/>
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor"/>
+  <img src="https://img.shields.io/badge/Trae%20AI-000000?style=for-the-badge" alt="Trae AI"/>
+  <img src="https://img.shields.io/badge/OpenCode-111111?style=for-the-badge" alt="OpenCode"/>
+  <img src="https://img.shields.io/badge/Dokploy-111111?style=for-the-badge" alt="Dokploy"/>
+  <img src="https://img.shields.io/badge/Traefik-24A1C1?style=for-the-badge&logo=traefikproxy&logoColor=white" alt="Traefik"/>
+  <img src="https://img.shields.io/badge/MikroTik-293239?style=for-the-badge&logo=mikrotik&logoColor=white" alt="MikroTik"/>
 </p>
 
 ## Proof of Work
@@ -115,3 +154,7 @@ Building a product, a platform, or a personal brand that sells? Let's talk.
 - 🏢 Company: [syn-code.com](https://syn-code.com)
 
 <p align="center"><em>BEYOND CODE. BUILT WITH INTELLIGENCE.</em></p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=03245C&height=90&section=footer" width="100%" alt=""/>
+</p>
