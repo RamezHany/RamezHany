@@ -65,30 +65,34 @@ My standard is simple: **if it isn't verified live, it isn't done.** Every platf
 <td align="center"><img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,php,laravel,python,django,fastapi&perline=8&theme=dark" alt="Backend" width="345"/></td>
 </tr>
 <tr>
+<td align="center"><b>Systems Programming</b></td>
 <td align="center"><b>Data</b></td>
-<td align="center"><b>Cloud &amp; DevOps</b></td>
 </tr>
 <tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=cpp,rust,go&perline=3&theme=dark" alt="Systems programming" width="130"/></td>
 <td align="center"><img src="https://skillicons.dev/icons?i=postgres,mongodb,sqlite,mysql,supabase&perline=5&theme=dark" alt="Databases" width="215"/></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,nginx,netlify,git,github,linux&perline=9&theme=dark" alt="Cloud and DevOps" width="390"/></td>
 </tr>
 <tr>
-<td align="center"><b>Editors &amp; Everyday Tools</b></td>
+<td align="center"><b>Cloud &amp; DevOps</b></td>
+<td align="center"><b>Servers &amp; Networking</b></td>
+</tr>
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,netlify,vercel,git,github,linux&perline=9&theme=dark" alt="Cloud and DevOps" width="390"/><br/><img src="https://img.shields.io/badge/Dokploy-111111?style=flat" alt="Dokploy"/></td>
+<td align="center"><img src="https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white" alt="Nginx"/> <img src="https://img.shields.io/badge/Traefik-24A1C1?style=flat&logo=traefikproxy&logoColor=white" alt="Traefik"/> <img src="https://img.shields.io/badge/MikroTik-293239?style=flat&logo=mikrotik&logoColor=white" alt="MikroTik"/></td>
+</tr>
+<tr>
+<td align="center"><b>Editors &amp; Design</b></td>
 <td align="center"><b>Libraries &amp; APIs</b></td>
 </tr>
 <tr>
-<td align="center"><img src="https://skillicons.dev/icons?i=vscode,visualstudio,figma,vercel&perline=4&theme=dark" alt="Editors and tools" width="175"/></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=vscode,visualstudio,figma&perline=3&theme=dark" alt="Editors and design tools" width="130"/></td>
 <td align="center"><img src="https://img.shields.io/badge/GSAP-88CE02?style=flat&logo=gsap&logoColor=black" alt="GSAP"/> <img src="https://img.shields.io/badge/Zod-3068B7?style=flat&logo=zod&logoColor=white" alt="Zod"/> <img src="https://img.shields.io/badge/Formik-172B4D?style=flat" alt="Formik"/> <img src="https://img.shields.io/badge/SWR-000000?style=flat" alt="SWR"/><br/><img src="https://img.shields.io/badge/React%20Bits-7C3AED?style=flat" alt="React Bits"/> <img src="https://img.shields.io/badge/Payload_CMS-000000?style=flat&logo=payloadcms" alt="Payload CMS"/> <img src="https://img.shields.io/badge/Google%20Sheets%20API-34A853?style=flat&logo=googlesheets&logoColor=white" alt="Google Sheets API"/><br/><img src="https://img.shields.io/badge/Google%20Docs%20API-4285F4?style=flat&logo=googledocs&logoColor=white" alt="Google Docs API"/> <img src="https://img.shields.io/badge/Google%20Drive%20API-F9AB00?style=flat&logo=googledrive&logoColor=white" alt="Google Drive API"/></td>
 </tr>
 </table>
 
-<b>Systems Programming</b>
+<b>AI Tools &amp; Assistants</b>
 
-<img src="https://skillicons.dev/icons?i=cpp,rust,go&perline=3&theme=dark" alt="Systems programming languages" width="130"/>
-
-<b>AI, Automation &amp; Infrastructure</b>
-
-<img src="https://img.shields.io/badge/Claude-D97757?style=flat&logo=claude&logoColor=white" alt="Claude"/> <img src="https://img.shields.io/badge/Claude%20Code-000000?style=flat&logo=claude&logoColor=white" alt="Claude Code"/> <img src="https://img.shields.io/badge/Cursor-000000?style=flat&logo=cursor&logoColor=white" alt="Cursor"/> <img src="https://img.shields.io/badge/Trae%20AI-000000?style=flat" alt="Trae AI"/> <img src="https://img.shields.io/badge/OpenCode-111111?style=flat" alt="OpenCode"/><br/><img src="https://img.shields.io/badge/Dokploy-111111?style=flat" alt="Dokploy"/> <img src="https://img.shields.io/badge/Traefik-24A1C1?style=flat&logo=traefikproxy&logoColor=white" alt="Traefik"/> <img src="https://img.shields.io/badge/MikroTik-293239?style=flat&logo=mikrotik&logoColor=white" alt="MikroTik"/>
+<img src="https://img.shields.io/badge/Claude-D97757?style=flat&logo=claude&logoColor=white" alt="Claude"/> <img src="https://img.shields.io/badge/Claude%20Code-000000?style=flat&logo=claude&logoColor=white" alt="Claude Code"/> <img src="https://img.shields.io/badge/Cursor-000000?style=flat&logo=cursor&logoColor=white" alt="Cursor"/> <img src="https://img.shields.io/badge/Trae%20AI-000000?style=flat" alt="Trae AI"/> <img src="https://img.shields.io/badge/OpenCode-111111?style=flat" alt="OpenCode"/>
 
 </div>
 
