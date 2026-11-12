@@ -62,7 +62,7 @@ My standard is simple: **if it isn't verified live, it isn't done.** Every platf
 </tr>
 <tr>
 <td align="center"><img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,threejs,blender&perline=7&theme=dark" alt="Frontend and 3D" width="300"/></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,php,laravel,python,django,fastapi,cpp&perline=9&theme=dark" alt="Backend" width="390"/></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,php,laravel,python,django,fastapi,cpp,rust,go&perline=11&theme=dark" alt="Backend" width="475"/></td>
 </tr>
 <tr>
 <td align="center"><b>Data</b></td>
