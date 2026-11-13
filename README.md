@@ -98,10 +98,12 @@ My standard is simple: **if it isn't verified live, it isn't done.** Every platf
 <td align="center"><img src="https://img.shields.io/badge/Claude-D97757?style=flat&logo=claude&logoColor=white" alt="Claude"/> <img src="https://img.shields.io/badge/Claude%20Code-000000?style=flat&logo=claude&logoColor=white" alt="Claude Code"/> <img src="https://img.shields.io/badge/Cursor-000000?style=flat&logo=cursor&logoColor=white" alt="Cursor"/><br/><img src="https://img.shields.io/badge/Antigravity-4285F4?style=flat" alt="Antigravity (Google)"/> <img src="https://img.shields.io/badge/OpenCode-111111?style=flat" alt="OpenCode"/><br/><img src="https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white" alt="Ollama"/> <img src="https://img.shields.io/badge/LM%20Studio-6366F1?style=flat&logo=lmstudio&logoColor=white" alt="LM Studio"/></td>
 </tr>
 <tr>
-<td align="center" colspan="2"><b>Hosting &amp; Deployment</b></td>
+<td align="center"><b>Deployment Platforms</b></td>
+<td align="center"><b>VPS &amp; Hosting</b></td>
 </tr>
 <tr>
-<td align="center" colspan="2"><img src="assets/dokploy.svg" height="40" alt="Dokploy"/> <b>Dokploy</b> &nbsp;&nbsp;&nbsp; <img src="assets/coolify.svg" height="40" alt="Coolify"/> <b>Coolify</b> &nbsp;&nbsp;&nbsp; <img src="assets/contabo.svg" height="28" alt="Contabo"/></td>
+<td align="center"><img src="assets/dokploy-lockup.svg" height="38" alt="Dokploy"/> &nbsp; <img src="assets/coolify-lockup.svg" height="38" alt="Coolify"/></td>
+<td align="center"><img src="assets/contabo.svg" height="26" alt="Contabo"/><br/><img src="assets/hetzner-lockup.svg" height="36" alt="Hetzner"/> &nbsp; <img src="assets/hostinger-lockup.svg" height="36" alt="Hostinger"/></td>
 </tr>
 </table>
 
