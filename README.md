@@ -134,7 +134,7 @@ I'm building a public open-source presence before launching my own accounting so
 | 5 | **KeePassXC** | Password-manager contributions (C++ / Qt) | 🗓️ Planned |
 | 6 | **OTP Authenticator** | Contributions to an open-source TOTP authenticator | 🗓️ Planned |
 | 7 | **Obsidian** | A community plugin | 🗓️ Planned |
-| 8 | **Markdown Editor + Viewer + Mini Model** | One project: a cross-platform Markdown editor and viewer with a built-in mini model trained on Markdown that assists with design | 🗓️ Planned |
+| 8 | **Markdown Editor + Viewer + Mini Model** | One project: a cross-platform Markdown editor and viewer with a built-in mini model trained on Markdown that assists with design | 🔨 In progress |
 | 9 | **Tabs Manager** | A browser extension (Chrome / Firefox, TypeScript) | 🗓️ Planned |
 | 10 | **OBS Studio** | A native plugin (C++) | 🗓️ Planned |
 | 11 | **DaVinci Resolve** | A plugin (OpenFX / C++) | 🗓️ Planned |
