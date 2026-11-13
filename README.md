@@ -29,6 +29,7 @@ My standard is simple: **if it isn't verified live, it isn't done.** Every platf
 - 🌱 **Building now:** [Feenak](https://syn-code.com) — NFC cards that open a full digital profile with one tap
 - 🤝 **Open source:** on a public contribution ladder — currently inside **Dokploy**
 - 📚 **Not a straight path:** three years into **Mathematics at the Faculty of Education**, I walked away — I loved math, but I wasn't growing anymore. I switched to **Psychology at the Faculty of Arts**, Alexandria University, to understand people and how they think — and I teach: my content connects Holland Codes (RIASEC) with the Enneagram
+- 🎓 **NTI-certified:** completed the **MEAN Stack: Web Developer Career Accelerator** at the **National Telecommunication Institute (NTI)**
 - 💬 **9,000+ followers** on LinkedIn read my breakdowns of building software properly
 
 ## Operating Principles
