@@ -125,6 +125,8 @@ My standard is simple: **if it isn't verified live, it isn't done.** Every platf
 
 I'm building a public open-source presence before launching my own accounting software — one project at a time, each stage finished and accepted before the next begins.
 
+> 🚀 **My first open-source project:** **[MikroTik CHR Containerized](https://github.com/RamezHany/mikrotik-chr-containerized)** — MikroTik RouterOS (CHR) running inside Docker via QEMU: my own image, a general Docker Compose that runs anywhere, and one-shot provisioning that applies the default user and my branding. Stage one of the Dokploy ladder below.
+
 | # | Project | Focus | Status |
 |---|---|---|---|
 | 1 | **Dokploy** | Contribution ladder: template → small fix → big fix → new feature | 🔨 In progress |
