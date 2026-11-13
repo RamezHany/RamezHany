@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Raleway&weight=600&size=23&pause=1100&color=2E7CFF&center=true&vCenter=true&width=760&lines=Full-Stack+Developer;I+ship+production+platforms;Security-first+%E2%80%94+always;Beyond+Code.+Built+With+Intelligence." alt="What Ramez does"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Raleway&weight=600&size=23&pause=1100&color=2E7CFF&center=true&vCenter=true&width=760&lines=Full-Stack+Developer;I+ship+production+platforms;Security-first+%E2%80%94+always" alt="What Ramez does"/>
 </p>
 
 <p align="center">
@@ -159,7 +159,6 @@ Building a product, a platform, or a personal brand that sells? Let's talk.
 - 🌐 Portfolio: [ramez-hany.com](https://ramez-hany.com)
 - 🏢 Company: [syn-code.com](https://syn-code.com)
 
-<p align="center"><em>BEYOND CODE. BUILT WITH INTELLIGENCE.</em></p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=03245C&height=90&section=footer" width="100%" alt=""/>
