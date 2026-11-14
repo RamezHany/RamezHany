@@ -140,6 +140,7 @@ I'm building a public open-source presence before launching my own accounting so
 | 9 | **Tabs Manager** | A browser extension (Chrome / Firefox, TypeScript) | 🗓️ Planned |
 | 10 | **OBS Studio** | A native plugin (C++) | 🗓️ Planned |
 | 11 | **DaVinci Resolve** | A plugin (OpenFX / C++) | 🗓️ Planned |
+| 12 | **DBScope** | A self-hosted database viewer & analytics dashboard — MongoDB first, PostgreSQL planned; the database analytics mongo-express doesn't give you | 🗓️ Planned |
 
 ## What We Build at Syncode
 
