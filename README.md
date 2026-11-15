@@ -9,6 +9,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/rramez-hany"><img src="https://img.shields.io/badge/LinkedIn-rramez--hany-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://ramez-hany.com"><img src="https://img.shields.io/badge/Website-ramez--hany.com-%230049FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/></a>
+  <img src="https://komarev.com/ghpvc/?username=RamezHany&label=Profile%20views&color=0049FF&style=for-the-badge" alt="Profile views"/>
 </p>
 
 <p align="center">
