@@ -43,16 +43,16 @@ My standard is simple: **if it isn't verified live, it isn't done.** Every platf
 | **One standard** | If I wouldn't sign my name under it, it doesn't ship. |
 
 
-## Selected Work — Live in Production
+## Proof of Work
 
-| Platform | What it is | Stack |
-|---|---|---|
-| [LAWSUIT](https://www.lawsuit-platform.com) | Legal ecosystem platform — legal services, training & law-firm development (Egypt + Saudi) | Next.js · Payload CMS |
-| [IGCC](https://www.igcc-eg.com) | International Center for Governance and Consultancy — courses, enrollment & payments | Next.js · Paymob |
-| [BerryNova](https://berrynova-eg.com) | B2B exporter of IQF frozen produce — catalog, quote system & CMS | Next.js · Payload CMS |
-| **Syncode OTP** | Secure OTP service for businesses — built with Vodafone Egypt | Production service |
+<p align="center">
+  <img src="assets/stats.svg" alt="Ramez's GitHub stats" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=RamezHany&background=02122E&border=25406B&ring=2E7CFF&fire=2E7CFF&currStreakNum=E6E8ED&currStreakLabel=7FB0FF&sideNums=E6E8ED&sideLabels=E6E8ED&dates=8A94A6" alt="GitHub streak" height="170"/>
+</p>
 
-> **Currently:** Building **Feenak** (NFC-card SaaS) · Climbing the **Dokploy** open-source ladder · Booking platform builds for trainers, coaches & service businesses.
+<p align="center">
+  <img src="assets/langs.svg" alt="Top languages" height="150"/>
+</p>
 
 ## Arsenal
 
@@ -111,49 +111,22 @@ My standard is simple: **if it isn't verified live, it isn't done.** Every platf
 
 </div>
 
-## Proof of Work
-
-<p align="center">
-  <img src="assets/stats.svg" alt="Ramez's GitHub stats" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=RamezHany&background=02122E&border=25406B&ring=2E7CFF&fire=2E7CFF&currStreakNum=E6E8ED&currStreakLabel=7FB0FF&sideNums=E6E8ED&sideLabels=E6E8ED&dates=8A94A6" alt="GitHub streak" height="170"/>
-</p>
-
-<p align="center">
-  <img src="assets/langs.svg" alt="Top languages" height="150"/>
-</p>
-
 ## Open-Source Program
 
 I'm building a public open-source presence before launching my own accounting software — one project at a time, each stage finished and accepted before the next begins.
 
-> 🚀 **My first open-source project:** **[MikroTik CHR Containerized](https://github.com/RamezHany/mikrotik-chr-containerized)** — MikroTik RouterOS (CHR) running inside Docker via QEMU: my own image, a general Docker Compose that runs anywhere, and one-shot provisioning that applies the default user and my branding. ✅ **Finished and tested:** v1.0.0 released, deployed and verified live on a real Dokploy server, and submitted as an official Dokploy template — [PR #1330](https://github.com/Dokploy/templates/pull/1330). Stage one of the Dokploy ladder below.
+> 🚀 **My first open-source project:** **[MikroTik CHR Containerized](https://github.com/RamezHany/mikrotik-chr-containerized)** — MikroTik RouterOS (CHR) running inside Docker via QEMU: my own image, a general Docker Compose that runs anywhere, and one-shot provisioning that applies the default user and my branding. ✅ **Finished, tested — and merged upstream:** v1.0.0 released, deployed and verified live on a real Dokploy server, and accepted as an official Dokploy template — [PR #1330](https://github.com/Dokploy/templates/pull/1330), merged by Dokploy's founder. Two more of my templates are under review: [2FAuth](https://github.com/Dokploy/templates/pull/1336) and [Orbit by Coolify](https://github.com/Dokploy/templates/pull/1337).
 
 | # | Project | Focus | Status |
 |---|---|---|---|
-| 1 | **Dokploy** | Contribution ladder: template → small fix → big fix → new feature | 🔨 In progress |
-| 2 | **Payload CMS** | A plugin born from real production pain | 🗓️ Planned |
-| 3 | **Twenty CRM** | Contributions to the open-source CRM (TypeScript) | 🗓️ Planned |
-| 4 | **RustDesk** | Contributions, starting with Arabic localization | 🗓️ Planned |
-| 5 | **KeePassXC** | Password-manager contributions (C++ / Qt) | 🗓️ Planned |
-| 6 | **OTP Authenticator** | Contributions to an open-source TOTP authenticator | 🗓️ Planned |
-| 7 | **Obsidian** | A community plugin | 🗓️ Planned |
-| 8 | **Markdown Editor + Viewer + Mini Model** | One project: a cross-platform Markdown editor and viewer with a built-in mini model trained on Markdown that assists with design | 🔨 In progress |
-| 9 | **Tabs Manager** | A browser extension (Chrome / Firefox, TypeScript) | 🗓️ Planned |
-| 10 | **OBS Studio** | A native plugin (C++) | 🗓️ Planned |
-| 11 | **DaVinci Resolve** | A plugin (OpenFX / C++) | 🗓️ Planned |
-| 12 | **DBScope** | A self-hosted database viewer & analytics dashboard — MongoDB first, PostgreSQL planned; the database analytics mongo-express doesn't give you | 🗓️ Planned |
+| 1 | **Dokploy** | Official templates contributor — MikroTik merged upstream; 2FAuth & Orbit under review | 🔨 In progress |
+| 2 | **Markdown Editor + Viewer + Mini Model** | One project: a cross-platform Markdown editor and viewer with a built-in mini model trained on Markdown that assists with design | 🔨 In progress |
 
 ## What We Build at Syncode
 
 | Product | What it does | Status |
 |---|---|---|
 | **Syncode OTP** | Secure one-time-password service for businesses | ✅ Live — built with Vodafone Egypt |
-| **Feenak** | NFC cards linked to smart digital profiles | 🔨 In development |
-| **WhatsApp CRM** | Customer conversations, organised and automated | 🔨 In development |
-| **Syn Dashboard** | One dashboard for your whole operation | 🔨 In development |
-| **Dynamic QR & Analytics** | QR codes you can edit and measure | 🧪 MVP |
-| **Digital Menu** | Digital menus for restaurants & cafés | 🧪 MVP |
-| **Freelancer Accounting** | Accounting for freelancers — installments, BNPL & irregular income | 🧪 In design |
 
 ## Let's Connect
 
