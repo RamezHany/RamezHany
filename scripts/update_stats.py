@@ -103,6 +103,19 @@ def main():
         s.append(f'<text x="{lx+150}" y="{yy}" font-family="{FONT}" font-size="12.5" fill="#{MUTED}">{pct}%</text>')
     s.append("</svg>")
     open("assets/langs.svg", "w").write("".join(s))
+    # ---- README proof line: keep the top contributions figure fresh ----
+    total = int(contributions(year).replace(",", ""))
+    floored = f"{total // 100 * 100:,}"
+    readme = open("README.md").read()
+    updated = re.sub(
+        r"<b>[\d,]+\+ contributions in \d{4}</b>",
+        f"<b>{floored}+ contributions in {year}</b>",
+        readme,
+    )
+    if updated != readme:
+        open("README.md", "w").write(updated)
+        print("proof line updated:", floored)
+
     print("cards regenerated:", rows[0], "| langs:", langs)
 
 
