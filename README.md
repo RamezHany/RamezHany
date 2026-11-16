@@ -63,6 +63,36 @@ My standard is simple: **if it isn't verified live, it isn't done.** Every platf
   <img src="assets/langs.svg" alt="Top languages" height="150"/>
 </p>
 
+## Open-Source Program
+
+I'm building a public open-source presence before launching my own accounting software — one project at a time, each stage finished and accepted before the next begins.
+
+> 🚀 **My first open-source project:** **[MikroTik CHR Containerized](https://github.com/RamezHany/mikrotik-chr-containerized)** — MikroTik RouterOS (CHR) running inside Docker via QEMU: my own image, a general Docker Compose that runs anywhere, and one-shot provisioning that applies the default user and my branding. ✅ **Finished, tested — and merged upstream:** v1.0.0 released, deployed and verified live on a real Dokploy server, and accepted as an official Dokploy template — [PR #1330](https://github.com/Dokploy/templates/pull/1330), merged by Dokploy's founder. Two more of my templates are under review: [2FAuth](https://github.com/Dokploy/templates/pull/1336) and [Orbit by Coolify](https://github.com/Dokploy/templates/pull/1337).
+
+<table>
+<tr><th>#</th><th>Project</th><th>Focus</th><th>Status</th></tr>
+<tr>
+<td>1</td>
+<td><b>Dokploy</b></td>
+<td>
+Official templates contributor — MikroTik merged upstream; 2FAuth &amp; Orbit under review.
+<table>
+<tr><td>1 · MikroTik RouterOS template</td><td>✅ Merged</td></tr>
+<tr><td>2 · Small fix</td><td>⏳ Up next</td></tr>
+<tr><td>3 · Big fix</td><td>⏳ Pending</td></tr>
+<tr><td>4 · New feature</td><td>⏳ Pending</td></tr>
+</table>
+</td>
+<td>🔨 In progress</td>
+</tr>
+<tr>
+<td>2</td>
+<td><b>Markdown Editor + Viewer + Mini Model</b></td>
+<td>One project: a cross-platform Markdown editor and viewer with a built-in mini model trained on Markdown that assists with design</td>
+<td>🔨 In progress</td>
+</tr>
+</table>
+
 ## Arsenal
 
 <div align="center">
@@ -119,17 +149,6 @@ My standard is simple: **if it isn't verified live, it isn't done.** Every platf
 
 
 </div>
-
-## Open-Source Program
-
-I'm building a public open-source presence before launching my own accounting software — one project at a time, each stage finished and accepted before the next begins.
-
-> 🚀 **My first open-source project:** **[MikroTik CHR Containerized](https://github.com/RamezHany/mikrotik-chr-containerized)** — MikroTik RouterOS (CHR) running inside Docker via QEMU: my own image, a general Docker Compose that runs anywhere, and one-shot provisioning that applies the default user and my branding. ✅ **Finished, tested — and merged upstream:** v1.0.0 released, deployed and verified live on a real Dokploy server, and accepted as an official Dokploy template — [PR #1330](https://github.com/Dokploy/templates/pull/1330), merged by Dokploy's founder. Two more of my templates are under review: [2FAuth](https://github.com/Dokploy/templates/pull/1336) and [Orbit by Coolify](https://github.com/Dokploy/templates/pull/1337).
-
-| # | Project | Focus | Status |
-|---|---|---|---|
-| 1 | **Dokploy** | Official templates contributor — MikroTik merged upstream; 2FAuth & Orbit under review | 🔨 In progress |
-| 2 | **Markdown Editor + Viewer + Mini Model** | One project: a cross-platform Markdown editor and viewer with a built-in mini model trained on Markdown that assists with design | 🔨 In progress |
 
 ## What We Build at Syncode
 
