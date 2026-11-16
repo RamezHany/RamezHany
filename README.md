@@ -150,12 +150,6 @@ Official templates contributor — MikroTik merged upstream; 2FAuth &amp; Orbit 
 
 </div>
 
-## What We Build at Syncode
-
-| Product | What it does | Status |
-|---|---|---|
-| **Syncode OTP** | Secure one-time-password service for businesses | ✅ Live — built with Vodafone Egypt |
-
 ## Let's Connect
 
 Building a product, a platform, or a personal brand that sells? Let's talk.
