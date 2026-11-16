@@ -43,6 +43,15 @@ My standard is simple: **if it isn't verified live, it isn't done.** Every platf
 | **One standard** | If I wouldn't sign my name under it, it doesn't ship. |
 
 
+## Selected Work — Live in Production
+
+| Platform | What it is | Stack |
+|---|---|---|
+| [LAWSUIT](https://www.lawsuit-platform.com) | Legal ecosystem platform — legal services, training & law-firm development (Egypt + Saudi) | Next.js · Payload CMS |
+| [IGCC](https://www.igcc-eg.com) | International Center for Governance and Consultancy — courses, enrollment & payments | Next.js · Paymob |
+| [BerryNova](https://berrynova-eg.com) | B2B exporter of IQF frozen produce — catalog, quote system & CMS | Next.js · Payload CMS |
+| **Syncode OTP** | Secure OTP service for businesses — built with Vodafone Egypt | Production service |
+
 ## Proof of Work
 
 <p align="center">
