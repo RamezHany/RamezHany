@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <b>2,300+ contributions in 2026</b> · Platforms live for clients in <b>Egypt &amp; Saudi Arabia</b> · OTP service built with <b>Vodafone Egypt</b> · Incubated at <b>Creativa — ITIDA / TIEC</b>
+  <b>2,500+ contributions in 2026</b> · Platforms live for clients in <b>Egypt &amp; Saudi Arabia</b> · OTP service built with <b>Vodafone Egypt</b> · Incubated at <b>Creativa — ITIDA / TIEC</b>
 </p>
 
 ---
@@ -76,12 +76,6 @@ I'm building a public open-source presence before launching my own accounting so
 <td><b>Dokploy</b></td>
 <td>
 Official templates contributor — MikroTik merged upstream; 2FAuth &amp; Orbit under review.
-<table>
-<tr><td>1 · MikroTik RouterOS template</td><td>✅ Merged</td></tr>
-<tr><td>2 · Small fix</td><td>⏳ Up next</td></tr>
-<tr><td>3 · Big fix</td><td>⏳ Pending</td></tr>
-<tr><td>4 · New feature</td><td>⏳ Pending</td></tr>
-</table>
 </td>
 <td>🔨 In progress</td>
 </tr>
