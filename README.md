@@ -9,6 +9,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/rramez-hany"><img src="https://img.shields.io/badge/LinkedIn-rramez--hany-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://ramez-hany.com"><img src="https://img.shields.io/badge/Website-ramez--hany.com-%230049FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/></a>
+  <a href="https://github.com/sponsors/RamezHany"><img src="https://img.shields.io/badge/Sponsor-My%20open%20source-%23EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="GitHub Sponsors"/></a>
   <img src="https://komarev.com/ghpvc/?username=RamezHany&label=Profile%20views&color=0049FF&style=for-the-badge" alt="Profile views"/>
 </p>
 
@@ -67,7 +68,7 @@ My standard is simple: **if it isn't verified live, it isn't done.** Every platf
 
 I'm building a public open-source presence before launching my own accounting software — one project at a time, each stage finished and accepted before the next begins.
 
-> 🚀 **My first open-source project:** **[MikroTik CHR Containerized](https://github.com/RamezHany/mikrotik-chr-containerized)** — MikroTik RouterOS (CHR) running inside Docker via QEMU: my own image, a general Docker Compose that runs anywhere, and one-shot provisioning that applies the default user and my branding. ✅ **Finished, tested — and merged upstream:** v1.0.0 released, deployed and verified live on a real Dokploy server, and accepted as an official Dokploy template — [PR #1330](https://github.com/Dokploy/templates/pull/1330), merged by Dokploy's founder. Two more of my templates are under review: [2FAuth](https://github.com/Dokploy/templates/pull/1336) and [Orbit by Coolify](https://github.com/Dokploy/templates/pull/1337).
+> 🚀 **My first open-source project:** **[MikroTik CHR Containerized](https://github.com/RamezHany/mikrotik-chr-containerized)** — MikroTik RouterOS (CHR) running inside Docker via QEMU: my own image, a general Docker Compose that runs anywhere, and one-shot provisioning that applies the default user and my branding. ✅ **Finished, tested — and merged upstream:** v1.0.0 released, deployed and verified live on a real Dokploy server, and accepted as an official Dokploy template — [PR #1330](https://github.com/Dokploy/templates/pull/1330), merged by Dokploy's founder. Four more of my templates were merged right after it — [2FAuth](https://github.com/Dokploy/templates/pull/1336), [Orbit by Coolify](https://github.com/Dokploy/templates/pull/1337), [BookOrbit](https://github.com/Dokploy/templates/pull/1338) and [OpenAlgo](https://github.com/Dokploy/templates/pull/1339) — five merged in total, with four more under review: [Bulwark Webmail](https://github.com/Dokploy/templates/pull/1343), [Invoice Ninja](https://github.com/Dokploy/templates/pull/1345), [DbGate](https://github.com/Dokploy/templates/pull/1350) and [Monica](https://github.com/Dokploy/templates/pull/1351).
 
 <table>
 <tr><th>#</th><th>Project</th><th>Focus</th><th>Status</th></tr>
@@ -75,7 +76,7 @@ I'm building a public open-source presence before launching my own accounting so
 <td>1</td>
 <td><b>Dokploy</b></td>
 <td>
-Official templates contributor — MikroTik merged upstream; 2FAuth &amp; Orbit under review.
+Official templates contributor — five templates merged upstream (MikroTik, 2FAuth, Orbit, BookOrbit, OpenAlgo), four more under review — and a first code fix to Dokploy itself open as [PR #6070](https://github.com/Dokploy/dokploy/pull/6070).
 </td>
 <td>🔨 In progress</td>
 </tr>
@@ -83,7 +84,7 @@ Official templates contributor — MikroTik merged upstream; 2FAuth &amp; Orbit 
 <td>2</td>
 <td><b>Markdown Editor + Viewer + Mini Model</b></td>
 <td>One project: a cross-platform Markdown editor and viewer with a built-in mini model trained on Markdown that assists with design</td>
-<td>🔨 In progress</td>
+<td>🔨 In progress — UI design phase in Figma</td>
 </tr>
 </table>
 
