@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <b>2,600+ contributions in 2026</b> · Platforms live for clients in <b>Egypt &amp; Saudi Arabia</b> · OTP service built with <b>Vodafone Egypt</b> · Incubated at <b>Creativa — ITIDA / TIEC</b>
+  <b>2,700+ contributions in 2026</b> · Platforms live for clients in <b>Egypt &amp; Saudi Arabia</b> · OTP service built with <b>Vodafone Egypt</b> · Incubated at <b>Creativa — ITIDA / TIEC</b>
 </p>
 
 ---
