@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <b>2,700+ contributions in 2026</b> · Platforms live for clients in <b>Egypt &amp; Saudi Arabia</b> · OTP service built with <b>Vodafone Egypt</b> · Incubated at <b>Creativa — ITIDA / TIEC</b>
+  <b>2,500+ contributions in 2026</b> · Platforms live for clients in <b>Egypt &amp; Saudi Arabia</b> · OTP service built with <b>Vodafone Egypt</b> · Incubated at <b>Creativa — ITIDA / TIEC</b>
 </p>
 
 ---
@@ -68,7 +68,7 @@ My standard is simple: **if it isn't verified live, it isn't done.** Every platf
 
 I'm building a public open-source presence before launching my own accounting software — one project at a time, each stage finished and accepted before the next begins.
 
-> 🚀 **My first open-source project:** **[MikroTik CHR Containerized](https://github.com/RamezHany/mikrotik-chr-containerized)** — MikroTik RouterOS (CHR) running inside Docker via QEMU: my own image, a general Docker Compose that runs anywhere, and one-shot provisioning that applies the default user and my branding. ✅ **Finished, tested — and merged upstream:** v1.0.0 released, deployed and verified live on a real Dokploy server, and accepted as an official Dokploy template — [PR #1330](https://github.com/Dokploy/templates/pull/1330), merged by Dokploy's founder. Four more of my templates were merged right after it — [2FAuth](https://github.com/Dokploy/templates/pull/1336), [Orbit by Coolify](https://github.com/Dokploy/templates/pull/1337), [BookOrbit](https://github.com/Dokploy/templates/pull/1338) and [OpenAlgo](https://github.com/Dokploy/templates/pull/1339) — five merged in total, with four more under review: [Bulwark Webmail](https://github.com/Dokploy/templates/pull/1343), [Invoice Ninja](https://github.com/Dokploy/templates/pull/1345), [DbGate](https://github.com/Dokploy/templates/pull/1350) and [Monica](https://github.com/Dokploy/templates/pull/1351).
+> 🚀 **My first open-source project:** **[MikroTik CHR Containerized](https://github.com/RamezHany/mikrotik-chr-containerized)** — MikroTik RouterOS (CHR) running inside Docker via QEMU: my own image, a general Docker Compose that runs anywhere, and one-shot provisioning that applies the default user and my branding. ✅ **Finished, tested — and merged upstream:** v1.0.0 released, deployed and verified live on a real Dokploy server, and accepted as an official Dokploy template — [PR #1330](https://github.com/Dokploy/templates/pull/1330), merged by Dokploy's founder. Four more of my templates were merged right after it — [2FAuth](https://github.com/Dokploy/templates/pull/1336), [Orbit by Coolify](https://github.com/Dokploy/templates/pull/1337), [BookOrbit](https://github.com/Dokploy/templates/pull/1338) and [OpenAlgo](https://github.com/Dokploy/templates/pull/1339). Seventeen more followed in one wave on 23 November 2026 — [Bulwark Webmail](https://github.com/Dokploy/templates/pull/1343), [Invoice Ninja](https://github.com/Dokploy/templates/pull/1345), [DbGate](https://github.com/Dokploy/templates/pull/1350), [Monica](https://github.com/Dokploy/templates/pull/1351), [Pingvin Share](https://github.com/Dokploy/templates/pull/1359), [Kanboard](https://github.com/Dokploy/templates/pull/1360), [Node-RED](https://github.com/Dokploy/templates/pull/1361), [Grocy](https://github.com/Dokploy/templates/pull/1362), [NetBird](https://github.com/Dokploy/templates/pull/1365), [Sonarr](https://github.com/Dokploy/templates/pull/1367), [Radarr](https://github.com/Dokploy/templates/pull/1368), [Tautulli](https://github.com/Dokploy/templates/pull/1370), [Komga](https://github.com/Dokploy/templates/pull/1371), [Deluge](https://github.com/Dokploy/templates/pull/1378), [Traccar](https://github.com/Dokploy/templates/pull/1379), [Ghostfolio](https://github.com/Dokploy/templates/pull/1380) and [OctoPrint](https://github.com/Dokploy/templates/pull/1381) — twenty-two merged in total, with six more template PRs under review — nod [#1384](https://github.com/Dokploy/templates/pull/1384), Readeck [#1387](https://github.com/Dokploy/templates/pull/1387), Moodle [#1388](https://github.com/Dokploy/templates/pull/1388), DokuWiki [#1389](https://github.com/Dokploy/templates/pull/1389), EspoCRM [#1390](https://github.com/Dokploy/templates/pull/1390) and SiYuan [#1391](https://github.com/Dokploy/templates/pull/1391).
 
 <table>
 <tr><th>#</th><th>Project</th><th>Focus</th><th>Status</th></tr>
@@ -76,7 +76,7 @@ I'm building a public open-source presence before launching my own accounting so
 <td>1</td>
 <td><b>Dokploy</b></td>
 <td>
-Official templates contributor — five templates merged upstream (MikroTik, 2FAuth, Orbit, BookOrbit, OpenAlgo), four more under review — and a first code fix to Dokploy itself open as [PR #6070](https://github.com/Dokploy/dokploy/pull/6070).
+Official templates contributor — twenty-two templates merged upstream, the latest wave on 23 November 2026 — and a first code fix to Dokploy itself open as [PR #6070](https://github.com/Dokploy/dokploy/pull/6070).
 </td>
 <td>🔨 In progress</td>
 </tr>
